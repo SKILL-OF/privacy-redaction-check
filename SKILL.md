@@ -1,3 +1,8 @@
+---
+name: privacy-redaction-check
+description: Use before any file, commit, pull request, issue or repository is made public, to check it against the no-PII and no-local-path policy.
+---
+
 # Skill draft: privacy-redaction-check
 
 Status: draft, not installed. Written by the instruction-architect lane, W2.D3. Proposal only. The role name stays because it names a function, not a person, machine or account. The roster display name is removed because it is an agent identifier, which the policy's "account identifiers" wording covers. The steward decides whether the role name is acceptable. Installation goes through a branch and a pull request, and the owner merges.
